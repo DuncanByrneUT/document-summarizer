@@ -1,3 +1,7 @@
+
+[Document Summarizer - Screencastify - March 29, 2026 11_51 AM.webm](https://github.com/user-attachments/assets/7eb853ec-f042-4fb8-8817-c43402e4667c)
+
+
 # AI Document Summarizer
 
 A full-stack AI-powered web app that summarizes documents and answers questions about them using the Anthropic Claude API.
